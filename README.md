@@ -1,40 +1,32 @@
-# 💫 Hi 👋, I'm Vishwapratap Singh
-**A passionate web developer || python backend || frontend devloper**
+<!-- Copy this folder's contents into the root of Deepak3699/Deepak3699 -->
+<p align="center">
+  <img src="./assets/hero.svg?v=1" width="100%" alt="Hi, I'm Vishwapratap Singh — Full-Stack &amp; Python Developer, Uttarpradesh, IN." />
+</p>
 
-Email Me 👉 ✉️ **vishwapratap745@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<img src="./assets/about-life.svg?v=1" width="100%" alt="Modern web development, Python and react, Talwind css &amp; open-source building." />
 
-- 🔭 **I’m currently working on:**full stack development
-- 🌱 **I’m currently learning:** Python
-- 👯 **I’m looking to collaborate on:** school Managment System
-- 🤔 **I’m looking for help with:** full stack devloper
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** vishwapratap745@gmail.com
-- 😄 **Pronouns:** vishwa 
-- ⚡ **Fun fact:** I Love Coding and new Teach
+<img src="./assets/stack.svg?v=1" width="100%" alt="Vishwapratap stack: Python, JavaScript, C++, React, Next.js, Node.js, FastAPI, AWS, and AI/ML." />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tcr.vishwapratap4004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vishwapratap-singh-489014405) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwapratap745@gmail.com) 
+### Things I've built
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vishu884&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vishu884&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishu884&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+| Project | What it does | Focus |
+| :--- | :--- | :--- |
+| [**Ai_Mentor**](https://github.com/Deepak3699/Ai_Mentor) | AI-powered learning management system with course management, analytics, community discussions & AI-generated video lessons | EdTech + AI |
+| [**LogSentinel-SIEM**](https://github.com/Deepak3699/LogSentinel-SIEM) | CortexShield threat detection & event correlation framework for intrusion prevention and web log monitoring | Cybersecurity + Python |
+| [**SMS_spam_detector**](https://github.com/Deepak3699/SMS_spam_detector) | Machine learning spam detection system with real-time text classification and FastAPI microservice integration | NLP + FastAPI |
+| [**InternOps**](https://github.com/Deepak3699/InternOps) | Enterprise workforce management platform to streamline intern operations, attendance tracking & performance | Full-Stack + Enterprise |
+| [**WebLog-Analytics**](https://github.com/Deepak3699/WebLog-Analytics) | End-to-end ML pipeline to detect traffic anomalies (DDoS, SQLi, brute force) through behavioral clustering | AI/ML + SecOps |
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishu884&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Deepak's builder ID and public dashboard: 26 public repositories, 11 received repo stars, 10 followers. Snapshot: October 6, 2026." />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="./assets/connect.svg?v=1" width="100%" alt="Let's build what's next. Connect on LinkedIn, watch on YouTube, follow on Instagram, or send an email." />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vishu884&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/deepak3699">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://youtube.com/@nextgendev3">YouTube — @nextgendev3</a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/d036dk">Instagram — @d036dk</a> &nbsp;·&nbsp;
+  <a href="mailto:deepakkhuttan65@gmail.com">Email — deepakkhuttan65@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Deepak3699">GitHub — @Deepak3699</a>
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=vishu884&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><sub>There is no perfect time for anything, there is only now. Building with intent.</sub></p>
